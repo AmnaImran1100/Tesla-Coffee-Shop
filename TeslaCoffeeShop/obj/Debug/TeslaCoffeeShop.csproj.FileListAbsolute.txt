@@ -1,0 +1,7 @@
+C:\University\Semester2\Week 5\TeslaCoffeeShop\TeslaCoffeeShop\bin\Debug\TeslaCoffeeShop.exe.config
+C:\University\Semester2\Week 5\TeslaCoffeeShop\TeslaCoffeeShop\bin\Debug\TeslaCoffeeShop.exe
+C:\University\Semester2\Week 5\TeslaCoffeeShop\TeslaCoffeeShop\bin\Debug\TeslaCoffeeShop.pdb
+C:\University\Semester2\Week 5\TeslaCoffeeShop\TeslaCoffeeShop\obj\Debug\TeslaCoffeeShop.csproj.AssemblyReference.cache
+C:\University\Semester2\Week 5\TeslaCoffeeShop\TeslaCoffeeShop\obj\Debug\TeslaCoffeeShop.csproj.CoreCompileInputs.cache
+C:\University\Semester2\Week 5\TeslaCoffeeShop\TeslaCoffeeShop\obj\Debug\TeslaCoffeeShop.exe
+C:\University\Semester2\Week 5\TeslaCoffeeShop\TeslaCoffeeShop\obj\Debug\TeslaCoffeeShop.pdb

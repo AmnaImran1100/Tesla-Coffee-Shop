@@ -1,0 +1,2 @@
+coffee,Drink,1200
+pasta,Food,1600
